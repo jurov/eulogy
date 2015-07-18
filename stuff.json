@@ -1,0 +1,1358 @@
+[
+{
+"Chair for the Head": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Chair for the Head Bundle": 1
+}
+},
+{
+"The Neckerbocker Bundle": {
+"action": "Combine",
+"Braided Coarse Thread": 1,
+"Solid Branch": 1
+}
+},
+{
+"Multifunctional Samovar Bundle": {
+"Flat Clump of Slag": 8,
+"Sharp Clump of Slag": 2,
+"Clump of Dry Grass": 3,
+"Solid Branch": 3,
+"Slithy Tove": 1,
+"action": "Combine",
+"Boulder": 1
+}
+},
+{
+"Tiny Boulder Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Tiny Swarming Grub Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Indistinguishable Toupe": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Indistinguishable Toupe Bundle": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Spicy Moss": {
+"action": "Extract",
+"Ordinary Spicy Moss Bundle": 1,
+"Ordinary Spicy Moss Exploration Marker": 1
+}
+},
+{
+"Indistinct Bark Shavings": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Indistinct Bark Shavings Bundle": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Ordinary Spicy Moss Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Braided Coarse Thread": {
+"action": "Tinker",
+"Braided Coarse Thread Bundle": 1,
+"Craft-Table": 1
+}
+},
+{
+"Leaky Treebark Flask Bundle": {
+"action": "Combine",
+"Coarse Frangible Thread": 3,
+"Disgusting Goop": 1,
+"Indistinct Bark Shavings": 12
+}
+},
+{
+"Ordinary Crumbly Rock Bundle": {
+"Nondescript Tubers": 2,
+"Magical Dungbeetle": 10,
+"Rotten Fruit": 3,
+"Widow's Whisp Berries": 7,
+"Rickety Reeds": 7,
+"action": "Combine",
+"Swarming Grub": 4,
+"Shiny Rock": 1,
+"Bird's Nest": 1
+}
+},
+{
+"Alchemist's Cheap Gin": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Multifunctional Samovar": 1,
+"Alchemist's Cheap Gin Bundle": 1
+}
+},
+{
+"Craft-Table": {
+"action": "Tinker",
+"Craft-Table Bundle": 1,
+"Craft-Table": 1
+}
+},
+{
+"Pincered Skullcap Bundle": {
+"action": "Combine",
+"Deserted Crab Shell": 1,
+"Braided Coarse Thread": 1
+}
+},
+{
+"Sharp Clump of Slag": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Sharp Clump of Slag Bundle": 1
+}
+},
+{
+"Mollusc Cheese": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Multifunctional Samovar": 1,
+"Mollusc Cheese Bundle": 1
+}
+},
+{
+"Bernet Franco Bundle": {
+"Magical Dungbeetle": 1,
+"Alchemist's Cheap Gin": 2,
+"Better Bitterbean": 1,
+"action": "Combine",
+"Pacademia Nut": 1,
+"Leaky Treebark Flask": 1
+}
+},
+{
+"Ordinary Spicy Moss Bundle": {
+"Nondescript Tubers": 4,
+"Dead Mollusc": 3,
+"Clump of Dry Grass": 1,
+"Two Leaf Clover": 2,
+"action": "Combine",
+"Wooly Mushroom": 2,
+"Lotus Harlot": 6
+}
+},
+{
+"Objectionable Screwdriver": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Objectionable Screwdriver Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Ordinary Shiny Rock Bundle": {
+"Crumbly Rock": 2,
+"Slithy Tove": 1,
+"Swarming Grub": 6,
+"Two Leaf Clover": 2,
+"action": "Combine",
+"Wooly Mushroom": 6,
+"Bird's Nest": 1
+}
+},
+{
+"Suspect Ointment": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Suspect Ointment Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Ordinary Nondescript Tubers Bundle": {
+"Dead Mollusc": 5,
+"Clump of Dry Grass": 19,
+"Flotsam": 1,
+"Rickety Reeds": 1,
+"action": "Combine",
+"Two Leaf Clover": 3
+}
+},
+{
+"Tuber Tea Bundle": {
+"action": "Combine",
+"Nondescript Tubers": 36,
+"Spicy Moss": 2,
+"Pacademia Nut": 1,
+"Wooly Mushroom": 7
+}
+},
+{
+"Shiny Rock Shards Bundle": {
+"action": "Combine",
+"Shiny Rock": 3
+}
+},
+{
+"Flat Clump of Slag": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Flat Clump of Slag Bundle": 1
+}
+},
+{
+"Demeaning Urabihs Harness": {
+"action": "Tinker",
+"Demeaning Urabihs Harness Bundle": 1,
+"Craft-Table": 1
+}
+},
+{
+"McReed Kilt": {
+"action": "McGuyver",
+"McReed Kilt Bundle": 1,
+"Bandar Toolkit": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Boulder": {
+"action": "Extract",
+"Tiny Boulder Exploration Marker": 1,
+"Little Bit O' Nothing": 1
+}
+},
+{
+"Slag Bundle": {
+"action": "Combine",
+"Shiny Rock": 3,
+"Flotsam": 5
+}
+},
+{
+"Improved Cruddy Hoe": {
+"action": "McGuyver",
+"Improved Cruddy Hoe Bundle": 1,
+"Bandar Toolkit": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Ordinary Boulder Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Shiny Rock Shards": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Shiny Rock Shards Bundle": 1
+}
+},
+{
+"Suspect Ointment Bundle": {
+"action": "Combine",
+"Dulce de Leche": 1,
+"Tuber Milk": 1,
+"Mollusc Cheese": 1
+}
+},
+{
+"Tiny Three-Pointed Thorn Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Remarkable Crumbly Rock Bundle": {
+"Flat Clump of Slag": 35,
+"Sharp Clump of Slag": 6,
+"Tuber Milk": 1,
+"Swarming Grub": 32,
+"Worthless Putrid Leather": 22,
+"action": "Combine",
+"Two Leaf Clover": 8,
+"Dead Mollusc": 17,
+"Bird's Nest and Gin": 43,
+"Rock Double Distillate": 1,
+"Unsteady Scaffolding": 2
+}
+},
+{
+"Multifunctional Samovar": {
+"action": "Tinker",
+"Multifunctional Samovar Bundle": 1,
+"Craft-Table": 1
+}
+},
+{
+"Coarse Cordage": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Coarse Cordage Bundle": 1
+}
+},
+{
+"Somewhat Fashionable Hat": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Chair for the Head": 1,
+"Somewhat Fashionable Hat Bundle": 1
+}
+},
+{
+"Offensive Eggnog": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Offensive Eggnog Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Tuber Milk Bundle": {
+"action": "Combine",
+"Nondescript Tubers": 5,
+"Crude Stinky Wineskin": 1,
+"Improbable Oil": 4
+}
+},
+{
+"Wood Double Distillate": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Wood Distillate Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Reed Hauberk Bundle": {
+"action": "Combine",
+"Rickety Reeds": 18,
+"Coarse Frangible Thread": 5
+}
+},
+{
+"Pointy Clump of Slag": {
+"action": "Tinker",
+"Pointy Clump of Slag Bundle": 1,
+"Craft-Table": 1
+}
+},
+{
+"Leaky Treebark Flask": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Leaky Treebark Flask Bundle": 1
+}
+},
+{
+"Tuber Flatbread Bundle": {
+"action": "Combine",
+"Clump of Dry Grass": 1,
+"Plain Coarse Flour": 3
+}
+},
+{
+"Dulce de Leche": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Multifunctional Samovar": 1,
+"Dulce de Leche Bundle": 1
+}
+},
+{
+"Craft-Table Bundle": {
+"action": "Combine",
+"Coarse Frangible Thread": 4,
+"Better Bitterbean": 2,
+"Solid Branch": 5
+}
+},
+{
+"Shiny Rock": {
+"action": "Extract",
+"Bundled Bits of Nothing": 1,
+"Small Shiny Rock Exploration Marker": 1
+}
+},
+{
+"Flotsam": {
+"action": "Extract",
+"Remarkable Flotsam Bundle": 1,
+"Remarkable Flotsam Exploration Marker": 1
+}
+},
+{
+"Clump of Dry Grass": {
+"action": "Extract",
+"Remarkable Clump of Dry Grass Exploration Marker": 1,
+"Remarkable Clump of Dry Grass Bundle": 1
+}
+},
+{
+"Tuber Flatbread": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Tuber Flatbread Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Stone Pickaxe Bundle": {
+"action": "Combine",
+"Pointy Clump of Slag": 1,
+"Solid Branch": 1,
+"Disgusting Goop": 1
+}
+},
+{
+"Ordinary Boulder Bundle": {
+"Rickety Reeds": 1,
+"Slithy Tove": 2,
+"Widow's Whisp Berries": 3,
+"action": "Combine",
+"Polished Small Stone": 13,
+"Three-Pointed Thorn": 2
+}
+},
+{
+"Widow's Whisp Berries": {
+"action": "Extract",
+"Tiny Widow's Whisp Berries Exploration Marker": 1,
+"Little Bit O' Nothing": 1
+}
+},
+{
+"Drunken Wedding Cake": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Drunken Wedding Cake Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Rockpile": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Chair for the Head": 1,
+"Rockpile Bundle": 1
+}
+},
+{
+"Basketcase Headdress": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Basketcase Headdress Bundle": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Three-Pointed Thorn": {
+"action": "Extract",
+"Tiny Three-Pointed Thorn Exploration Marker": 1,
+"Little Bit O' Nothing": 1
+}
+},
+{
+"The Neckerbocker": {
+"action": "Lapidary",
+"Pincered Skullcap": 1,
+"The Neckerbocker Bundle": 1,
+"Turning Wheel": 1
+}
+},
+{
+"Tiny Widow's Whisp Berries Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Shiny Rock": {
+"action": "Extract",
+"Small Shiny Rock Bundle": 1,
+"Small Shiny Rock Exploration Marker": 1
+}
+},
+{
+"Bandar Toolkit": {
+"action": "Tinker",
+"Bandar Toolkit Bundle": 1,
+"Craft-Table": 1
+}
+},
+{
+"Rickety Reeds": {
+"action": "Extract",
+"Ordinary Rickety Reeds Exploration Marker": 1,
+"Ordinary Rickety Reeds Bundle": 1
+}
+},
+{
+"Ordinary Rickety Reeds Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Flat Clump of Slag Bundle": {
+"action": "Combine",
+"Improbable Oil": 1,
+"Slag": 5
+}
+},
+{
+"Tiny Rickety Reeds Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Worthless Putrid Leather": {
+"action": "Extract",
+"Tiny Worthless Putrid Leather Exploration Marker": 1,
+"Little Bit O' Nothing": 1
+}
+},
+{
+"Improved Stone Pickaxe Bundle": {
+"action": "Combine",
+"Stone Pickaxe": 3,
+"Base Metal Studs": 5,
+"Slag": 12
+}
+},
+{
+"Crumbly Rock": {
+"action": "Extract",
+"Ordinary Crumbly Rock Exploration Marker": 1,
+"Ordinary Crumbly Rock Bundle": 1
+}
+},
+{
+"Grubsilk Thread": {
+"action": "McGuyver",
+"Grubsilk Thread Bundle": 1,
+"Bandar Toolkit": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Barbarian Earrings": {
+"action": "Lapidary",
+"Barbarian Earrings Bundle": 1,
+"Bandar Toolkit": 1,
+"Pincered Skullcap": 1
+}
+},
+{
+"Remarkable Bird's Nest Bundle": {
+"Bandar Toolkit Bundle": 16,
+"Nondescript Tubers": 1,
+"Tuber Milk": 5,
+"Widow's Whisp Berries": 18,
+"Wood Double Distillate": 2,
+"Rickety Reeds": 1,
+"Dead Mollusc": 1,
+"Bernet Franco": 3,
+"action": "Combine",
+"Giant's Rotten Canine": 26,
+"Rotten Fruit": 1,
+"Lotus Harlot": 28
+}
+},
+{
+"Stone Pickaxe": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Stone Pickaxe Bundle": 1
+}
+},
+{
+"Cruddy Hoe": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Cruddy Hoe Bundle": 1
+}
+},
+{
+"Omlette du Disgorge Bundle": {
+"action": "Combine",
+"Wooly Mushroom": 1,
+"Mollusc Cheese": 1,
+"Abandoned Eggs": 3
+}
+},
+{
+"Base Metal Studs Bundle": {
+"action": "Combine",
+"Boulder": 1,
+"Flotsam": 2,
+"Slag": 2
+}
+},
+{
+"Nondescript Tubers": {
+"action": "Extract",
+"Ordinary Nondescript Tubers Bundle": 1,
+"Ordinary Nondescript Tubers Exploration Marker": 1
+}
+},
+{
+"Remarkable Bird's Nest Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Bird's Nest": {
+"action": "Extract",
+"Small Bird's Nest Exploration Bundle": 1,
+"Small Bird's Nest Exploration Marker": 1
+}
+},
+{
+"Tuber Tea": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Tuber Tea Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Bundled Bits of Nothing": {
+"action": "Combine",
+"Little Bit O' Nothing": 7
+}
+},
+{
+"Alchemist's Cheap Gin Bundle": {
+"action": "Combine",
+"Nondescript Tubers": 24,
+"Leaky Treebark Flask": 1,
+"Two Leaf Clover": 1
+}
+},
+{
+"Ordinary Flotsam Bundle": {
+"action": "Combine",
+"Magical Dungbeetle": 8,
+"Shed Snakeskin": 1,
+"Deserted Crab Shell": 4,
+"Wooly Mushroom": 3
+}
+},
+{
+"Disgusting Goop": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Disgusting Goop Bundle": 1
+}
+},
+{
+"Boulder": {
+"action": "Extract",
+"Ordinary Boulder Bundle": 1,
+"Ordinary Boulder Exploration Marker": 1
+}
+},
+{
+"Plain Coarse Flour Bundle": {
+"action": "Combine",
+"Nondescript Tubers": 8
+}
+},
+{
+"Improbable Oil": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Improbable Oil Bundle": 1
+}
+},
+{
+"Ordinary Crumbly Rock Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Small Boulder Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Braided Coarse Thread Bundle": {
+"action": "Combine",
+"Coarse Frangible Thread": 3
+}
+},
+{
+"101 Little Bit O' Nothings": {
+"action": "Bouquinize",
+"Maculature I": 1,
+"Worn Old Screens": 1,
+"Penance Clogs": 1
+}
+},
+{
+"Boulder": {
+"action": "Extract",
+"Small Boulder Exploration Marker": 1,
+"Small Boulder Bundle": 1
+}
+},
+{
+"Barbarian Earrings Bundle": {
+"action": "Combine",
+"Alchemist's Cheap Gin": 1,
+"Three-Pointed Thorn": 1
+}
+},
+{
+"Crude Stinky Wineskin": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Chair for the Head": 1,
+"Crude Stinky Wineskin Bundle": 1
+}
+},
+{
+"Mollusc Cheese Bundle": {
+"action": "Combine",
+"Dead Mollusc": 5,
+"Slithy Tove": 1,
+"Elusive Purple Snail": 2
+}
+},
+{
+"Small Bird's Nest Exploration Bundle": {
+"action": "Combine",
+"Coarse Frangible Thread": 1
+}
+},
+{
+"Offensive Eggnog Bundle": {
+"action": "Combine",
+"Leaky Treebark Flask": 1,
+"Alchemist's Cheap Gin": 1,
+"Abandoned Eggs": 1
+}
+},
+{
+"Remarkable Crumbly Rock Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Clump of Dry Grass": {
+"action": "Extract",
+"Small Clump of Dry Grass Exploration Marker": 1,
+"Small Clump of Dry Grass Bundle": 1
+}
+},
+{
+"The Neckerbocker": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"The Neckerbocker Bundle": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Cheapest Wedding Ring Bundle": {
+"action": "Combine",
+"Shiny Rock": 1,
+"Braided Coarse Thread": 1,
+"Improbable Oil": 1
+}
+},
+{
+"Wood Distillate Bundle": {
+"action": "Combine",
+"Rickety Reeds": 3,
+"Alchemist's Cheap Gin": 7,
+"Solid Branch": 3,
+"Flotsam": 3
+}
+},
+{
+"Reed Hauberk": {
+"action": "McGuyver",
+"Reed Hauberk Bundle": 1,
+"Bandar Toolkit": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Tiny Worthless Putrid Leather Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Small Clump of Dry Grass Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Sharp Clump of Slag Bundle": {
+"action": "Combine",
+"Improbable Oil": 1,
+"Slag": 5
+}
+},
+{
+"Indistinct Bark Shavings Bundle": {
+"action": "Combine",
+"Shiny Rock": 1,
+"Flotsam": 2
+}
+},
+{
+"Indistinguishable Toupe Bundle": {
+"action": "Combine",
+"Wooly Mushroom": 1,
+"Disgusting Goop": 1
+}
+},
+{
+"Penance Clogs Bundle": {
+"action": "Combine",
+"Lotus Harlot": 2,
+"Base Metal Studs": 12,
+"Flotsam": 4
+}
+},
+{
+"Ordinary Rickety Reeds Bundle": {
+"Nondescript Tubers": 18,
+"Crumbly Rock": 1,
+"Better Bitterbean": 15,
+"action": "Combine",
+"Two Leaf Clover": 2,
+"Elusive Purple Snail": 19
+}
+},
+{
+"Remarkable Flotsam Bundle": {
+"Sharp Clump of Slag": 7,
+"Tuber Milk": 9,
+"Widow's Whisp Berries": 1,
+"Wood Double Distillate": 1,
+"Better Bitterbean": 5,
+"action": "Combine",
+"Giant's Rotten Canine": 18,
+"Bernet Franco": 3,
+"Magical Dungbeetle": 1,
+"Slithy Tove": 13,
+"Flotsam": 3,
+"Two Leaf Clover": 6,
+"Bird's Nest and Gin": 37,
+"Unsteady Scaffolding": 2
+}
+},
+{
+"Crumbly Rock": {
+"action": "Extract",
+"Remarkable Crumbly Rock Bundle": 1,
+"Remarkable Crumbly Rock Exploration Marker": 1
+}
+},
+{
+"Hoof Gloves Bundle": {
+"action": "Combine",
+"Worthless Putrid Leather": 1,
+"Disgusting Goop": 1
+}
+},
+{
+"Slag": {
+"action": "Tinker",
+"Slag Bundle": 1,
+"Craft-Table": 1
+}
+},
+{
+"Drunken Wedding Cake Bundle": {
+"Dulce de Leche": 1,
+"Rotten Fruit": 1,
+"Abandoned Eggs": 1,
+"action": "Combine",
+"Bernet Franco": 5,
+"Lotus Harlot": 1,
+"Plain Coarse Flour": 3
+}
+},
+{
+"Swarming Grub": {
+"action": "Extract",
+"Tiny Swarming Grub Exploration Marker": 1,
+"Little Bit O' Nothing": 1
+}
+},
+{
+"Ordinary Shiny Rock Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Pincered Skullcap": {
+"action": "McGuyver",
+"Pincered Skullcap Bundle": 1,
+"Bandar Toolkit": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Widow's Whisp Tincture Bundle": {
+"action": "Combine",
+"Alchemist's Cheap Gin": 1,
+"Widow's Whisp Berries": 1,
+"Leaky Treebark Flask": 1
+}
+},
+{
+"Bandar Toolkit Bundle": {
+"Stone Pickaxe": 2,
+"Coarse Frangible Thread": 7,
+"Coarse Cordage": 1,
+"Stone Adze": 2,
+"action": "Combine",
+"Cruddy Hoe": 2,
+"Deserted Crab Shell": 1,
+"Shiny Rock Shards": 3
+}
+},
+{
+"Penance Clogs": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Penance Clogs Bundle": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Treebark Mockasillies": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Chair for the Head": 1,
+"Treebark Mockasillies Bundle": 1
+}
+},
+{
+"Maculature I": {
+"Pincered Skullcap Layout": 1,
+"Slag Recipe": 1,
+"Braided Coarse Thread Method": 1,
+"Congressional Pulp Recipe": 1,
+"Hoof Gloves Design": 1,
+"Flinty Toothpaste Recipe": 1,
+"Disgusting Goop Diagram": 1,
+"Indistinct Bark Shavings Sketch": 1,
+"Shredding Instructions I": 1,
+"McReed Kilt Sketch": 1,
+"action": "Combine",
+"Indistinguishable Toupe Sketch": 1,
+"Coarse Frangible Thread Recipe": 1,
+"Plain Coarse Flour Recipe": 1,
+"The Neckerbocker Blueprint": 1,
+"Shiny Rock Shards Recipe": 1,
+"Somewhat Fashionable Hat Pattern": 1
+}
+},
+{
+"Coarse Cordage Bundle": {
+"action": "Combine",
+"Braided Coarse Thread": 7
+}
+},
+{
+"Tuber Milk": {
+"action": "Gung-ho Gumbo",
+"Tuber Milk Bundle": 1,
+"Multifunctional Samovar": 1,
+"Demeaning Urabihs Harness": 1
+}
+},
+{
+"Basketcase Headdress Bundle": {
+"action": "Combine",
+"Rotten Fruit": 4,
+"Flotsam": 1,
+"Braided Coarse Thread": 2
+}
+},
+{
+"Caveman Bedroll Bundle": {
+"action": "Combine",
+"Rickety Reeds": 11,
+"Bird's Nest": 1,
+"Clump of Dry Grass": 28,
+"Worthless Putrid Leather": 7
+}
+},
+{
+"Bird's Nest and Gin Bundle": {
+"action": "Combine",
+"Leaky Treebark Flask": 1,
+"Alchemist's Cheap Gin": 1,
+"Bird's Nest": 1
+}
+},
+{
+"Ordinary Nondescript Tubers Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Small Bird's Nest Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Better Beetle Brew Bundle": {
+"action": "Combine",
+"Magical Dungbeetle": 1,
+"Better Bitterbean": 1,
+"Leaky Treebark Flask": 1
+}
+},
+{
+"Coarse Frangible Thread": {
+"action": "Tinker",
+"Craft-Table": 1,
+"Coarse Frangible Thread Bundle": 1
+}
+},
+{
+"Flinty Toothpaste": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Flinty Toothpaste Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Dulce de Leche Bundle": {
+"action": "Combine",
+"Tuber Milk": 1,
+"Disgusting Goop": 1
+}
+},
+{
+"Flinty Toothpaste Bundle": {
+"action": "Combine",
+"Shiny Rock": 1,
+"Disgusting Goop": 1
+}
+},
+{
+"Widow's Whisp Tincture": {
+"action": "Gung-ho Gumbo",
+"Widow's Whisp Tincture Bundle": 1,
+"Multifunctional Samovar": 1,
+"Demeaning Urabihs Harness": 1
+}
+},
+{
+"Remarkable Clump of Dry Grass Bundle": {
+"Bandar Toolkit Bundle": 10,
+"Sharp Clump of Slag": 9,
+"Crumbly Rock": 1,
+"Tuber Milk": 5,
+"Widow's Whisp Berries": 36,
+"Better Bitterbean": 1,
+"Suspect Ointment": 7,
+"Rickety Reeds": 26,
+"action": "Combine",
+"Grubsilk Thread": 41,
+"Nondescript Tubers": 20,
+"Pointy Clump of Slag": 3,
+"Shed Snakeskin": 4
+}
+},
+{
+"Small Shiny Rock Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Coarse Frangible Thread Bundle": {
+"action": "Combine",
+"Clump of Dry Grass": 3
+}
+},
+{
+"Rockpile Bundle": {
+"action": "Combine",
+"Crumbly Rock": 148,
+"Boulder": 72,
+"Polished Small Stone": 1,
+"Shiny Rock": 31
+}
+},
+{
+"Stone Adze Bundle": {
+"action": "Combine",
+"Sharp Clump of Slag": 1,
+"Solid Branch": 1,
+"Disgusting Goop": 1
+}
+},
+{
+"Remarkable Flotsam Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Bernet Franco": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Bernet Franco Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Pointy Clump of Slag Bundle": {
+"action": "Combine",
+"Improbable Oil": 1,
+"Slag": 5
+}
+},
+{
+"Base Metal Studs": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Base Metal Studs Bundle": 1,
+"Chair for the Head": 1
+}
+},
+{
+"McReed Kilt Bundle": {
+"action": "Combine",
+"Rickety Reeds": 11,
+"Elusive Purple Snail": 1,
+"Three-Pointed Thorn": 1
+}
+},
+{
+"Chair for the Head Bundle": {
+"action": "Combine",
+"Braided Coarse Thread": 3,
+"Flotsam": 58,
+"Solid Branch": 69
+}
+},
+{
+"Improved Cruddy Hoe Bundle": {
+"action": "Combine",
+"Cruddy Hoe": 3,
+"Base Metal Studs": 5,
+"Slag": 12
+}
+},
+{
+"Grubsilk Thread Bundle": {
+"action": "Combine",
+"Alchemist's Cheap Gin": 2,
+"Crumbly Rock": 15,
+"Boulder": 1,
+"Swarming Grub": 2
+}
+},
+{
+"Hoof Gloves": {
+"action": "McGuyver",
+"Bandar Toolkit": 1,
+"Chair for the Head": 1,
+"Hoof Gloves Bundle": 1
+}
+},
+{
+"Shiny Rock": {
+"action": "Extract",
+"Ordinary Shiny Rock Exploration Marker": 1,
+"Ordinary Shiny Rock Bundle": 1
+}
+},
+{
+"Ordinary Flotsam Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Treebark Mockasillies Bundle": {
+"action": "Combine",
+"Worthless Putrid Leather": 1,
+"Coarse Frangible Thread": 2,
+"Indistinct Bark Shavings": 5
+}
+},
+{
+"Disgusting Goop Bundle": {
+"action": "Combine",
+"Crumbly Rock": 1,
+"Rotten Fruit": 3,
+"Spicy Moss": 1
+}
+},
+{
+"Stone Adze": {
+"action": "Tinker",
+"Stone Adze Bundle": 1,
+"Craft-Table": 1
+}
+},
+{
+"Omlette du Disgorge": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Omlette du Disgorge Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Crude Stinky Wineskin": {
+"action": "Combine",
+"Worthless Putrid Leather": 5,
+"Crumbly Rock": 3,
+"Shiny Rock Shards": 1
+}
+},
+{
+"Improbable Oil Bundle": {
+"action": "Combine",
+"Wooly Mushroom": 1,
+"Boulder": 2,
+"Leaky Treebark Flask": 1,
+"Spicy Moss": 3
+}
+},
+{
+"Cruddy Hoe Bundle": {
+"action": "Combine",
+"Flat Clump of Slag": 1,
+"Solid Branch": 1,
+"Disgusting Goop": 1
+}
+},
+{
+"Somewhat Fashionable Hat Bundle": {
+"action": "Combine",
+"Braided Coarse Thread": 1,
+"Solid Branch": 2
+}
+},
+{
+"Remarkable Clump of Dry Grass Exploration Marker": {
+"action": "Explore"
+}
+},
+{
+"Improved Stone Pickaxe": {
+"action": "McGuyver",
+"Improved Stone Pickaxe Bundle": 1,
+"Bandar Toolkit": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Rickety Reeds": {
+"action": "Extract",
+"Tiny Rickety Reeds Exploration Marker": 1,
+"Little Bit O' Nothing": 1
+}
+},
+{
+"Small Boulder Bundle": {
+"action": "Combine",
+"Coarse Frangible Thread": 1
+}
+},
+{
+"Small Clump of Dry Grass Bundle": {
+"action": "Combine",
+"Coarse Frangible Thread": 1
+}
+},
+{
+"Cheapest Wedding Ring": {
+"action": "McGuyver",
+"Cheapest Wedding Ring Bundle": 1,
+"Bandar Toolkit": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Flotsam": {
+"action": "Extract",
+"Ordinary Flotsam Exploration Marker": 1,
+"Ordinary Flotsam Bundle": 1
+}
+},
+{
+"Small Boulder Bundle": {
+"action": "Combine",
+"Little Bit O' Nothing": 7
+}
+},
+{
+"Small Shiny Rock Bundle": {
+"action": "Combine",
+"Coarse Frangible Thread": 1
+}
+},
+{
+"Plain Coarse Flour": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Plain Coarse Flour Bundle": 1,
+"Multifunctional Samovar": 1
+}
+},
+{
+"Demeaning Urabihs Harness Bundle": {
+"action": "Combine",
+"Braided Coarse Thread": 13
+}
+},
+{
+"Caveman Bedroll": {
+"action": "McGuyver",
+"Caveman Bedroll Bundle": 1,
+"Bandar Toolkit": 1,
+"Chair for the Head": 1
+}
+},
+{
+"Bird's Nest": {
+"action": "Extract",
+"Remarkable Bird's Nest Exploration Marker": 1,
+"Remarkable Bird's Nest Bundle": 1
+}
+},
+{
+"Objectionable Screwdriver Bundle": {
+"action": "Combine",
+"Crude Stinky Wineskin": 1,
+"Rotten Fruit": 1,
+"Alchemist's Cheap Gin": 1
+}
+},
+{
+"Better Beetle Brew": {
+"action": "Gung-ho Gumbo",
+"Better Beetle Brew Bundle": 1,
+"Multifunctional Samovar": 1,
+"Demeaning Urabihs Harness": 1
+}
+},
+{
+"Bird's Nest and Gin": {
+"action": "Gung-ho Gumbo",
+"Demeaning Urabihs Harness": 1,
+"Bird's Nest and Gin Bundle": 1,
+"Multifunctional Samovar": 1
+}
+}
+]
